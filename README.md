@@ -1,6 +1,6 @@
 LEARN TO HOST:
-- go to ***https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro***
-- copy the *SVG* and *run* it
+  - go to ***https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro***
+  - copy the *SVG* and *run* it
 Current available SVG Files:
 1. dogeub
 2. Duckmath
@@ -14,26 +14,26 @@ Current available SVG Files:
 10. Cloudmoon
 11. converted
 12. coolkid
-13. dominum
-14. eclipse
-15. froggies arcade
-16. fynubg
-17. gnmath
-18. helium
-19. Impubg
-20. lucide
-21. lunchchat
-22. milk
-23. milkboxe
-24. mizu math
-25. nova
-26. novene
-27. petezah
-28. plutonium
-29. refract
-30. sigmagames
-31. studify
-32. truffled
-33. tungtung
-34. ugs
-35. xcloud
+15. dominum
+16. eclipse
+17. froggies arcade
+18. fynubg
+19. gnmath
+20. helium
+21. Impubg
+22. lucide
+23. lunchchat
+24. milk
+25. milkboxe
+26. mizu math
+27. nova
+28. novene
+29. petezah
+30. plutonium
+31. refract
+32. sigmagames
+33. studify
+34. truffled
+35. tungtung
+36. ugs
+37. xcloud
