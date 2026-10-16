@@ -1,18 +1,39 @@
-<img width="200" height="200" alt="a_fe79501f39101614389421889522d5d3" src="https://github.com/user-attachments/assets/0ba18eb3-9bf3-49f1-a5e2-5a1af9aad9b7" />
+LEARN TO HOST:
 
-# LINKMAKER
+Current available SVG Files:
 
-### ABOUT
-This is a bunch of svg files that you can put into https://sites.google.com/view/jslinkmaker/linkmaker-v3?authuser=0and make millions of links for a bunch of different proxies!
-
-### CONTACTS
-Feels free to contact us to report an issue or request a new svg. We are happy to help!
-
-DISCORD (fastest response) 
-Dm @obamamegagon or @wizuem
-
-Or join discord.gg.potatougb
-
-EMAIL
-wizu.hehe@gmail.com
-obamamegagon@gmail.com
+1. dogeub
+2. Duckmath
+3. EDURocks
+4. Imp Games
+5. Luminal
+6. Mist
+7. UBZone
+8. Arctic
+9. Chillzone
+10. Cloudmoon
+11. converted
+12. coolkid
+13. dominum
+14. eclipse
+15. froggies arcade
+16. fynubg
+17. gnmath
+18. helium
+19. Impubg
+20. lucide
+21. lunchchat
+22. milk
+23. milkboxe
+24. mizu math
+25. nova
+26. novene
+27. petezah
+28. plutonium
+29. refract
+30. sigmagames
+31. studify
+32. truffled
+33. tungtung
+34. ugs
+35. xcloud
